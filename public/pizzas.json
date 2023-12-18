@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "name": "Peluzos",
+        "description": "Peluzos pizza is a delightful combination of artisanal tomato sauce, mozzarella cheese, prosciutto, and mushrooms. It's a flavorful choice that satisfies both meat and veggie lovers alike. The richness of prosciutto complements the earthiness of mushrooms, creating a pizza experience that's truly indulgent.",
+        "pizza_img": "https://www.popolopizzeria.com/cdn/shop/products/pop_d268ceec-a0d4-4429-82eb-8953b145e3ae_394x.jpg?v=1681304363",
+        "ingredient_1": "Artisanal tomato sauce",
+        "ingredient_2": "Mozzarella cheese",
+        "ingredient_3": "Prosciutto",
+        "ingredient_4": "Mushrooms",
+        "ingredient_5": null,
+        "price": 29
+    },
+    {
+        "id": 2,
+        "name": "Tribeca",
+        "description": "Tribeca pizza is a taste of Italy with artisanal tomato sauce, mozzarella cheese, candied tomatoes, and ricotta cheese. The sweetness of candied tomatoes adds a unique twist to this classic combination. It's a sweet and savory delight that captures the essence of Italian cuisine.",
+        "pizza_img": "https://www.popolopizzeria.com/cdn/shop/products/tbc_dca99f92-a843-44fd-be54-3d9b6b181c8d_394x.jpg?v=1671468843",
+        "ingredient_1": "Artisanal tomato sauce",
+        "ingredient_2": "Mozzarella cheese",
+        "ingredient_3": "Candied tomatoes",
+        "ingredient_4": "Ricotta cheese",
+        "ingredient_5": null,
+        "price": 15
+    },
+    {
+        "id": 3,
+        "name": "Pesto",
+        "description": "Pesto pizza is a green delight featuring a craft white sauce, mozzarella cheese, ricotta cheese, and, of course, pesto. The aromatic basil and nutty flavor of pesto create a refreshing and vibrant pizza. It's a perfect choice for those who enjoy the freshness of herbs in every bite.",
+        "pizza_img": "https://www.popolopizzeria.com/cdn/shop/products/pes_a3fbbf7a-f7b7-4520-ac06-490e73c74398_394x.jpg?v=1671468851",
+        "ingredient_1": "Craft white sauce",
+        "ingredient_2": "Mozzarella cheese",
+        "ingredient_3": "Ricotta cheese",
+        "ingredient_4": "pesto",
+        "ingredient_5": null,
+        "price": 16
+    },
+    {
+        "id": 4,
+        "name": "Fugazzeta",
+        "description": "Fugazzeta pizza is a savory experience with mozzarella cheese, white onion, parmesan, provolone cheese, and olives. The combination of cheeses and the savory notes of white onion make this pizza a savory delight. Fugazzeta is a classic choice for cheese lovers who enjoy a medley of flavors.",
+        "pizza_img": "https://www.popolopizzeria.com/cdn/shop/products/fgz_84d75490-ef50-43ec-b898-9253eec8d084_394x.jpg?v=1671468845",
+        "ingredient_1": "Mozzarella cheese",
+        "ingredient_2": "White onion",
+        "ingredient_3": "Parmesan",
+        "ingredient_4": "Provolone cheese",
+        "ingredient_5": "Olive",
+        "price": 17
+    },
+    {
+        "id": 5,
+        "name": "Peperoni",
+        "description": "Peperoni pizza is a classic NY-style pizza featuring artisanal tomato sauce, mozzarella cheese, and pepperoni. It's the go-to option for anyone who loves the bold and spicy kick of pepperoni on a traditional New York-style crust. Simple, delicious, and a timeless favorite.",
+        "pizza_img": "https://www.popolopizzeria.com/cdn/shop/products/pep_dd77f165-2119-4626-bfda-455eb92836e6_394x.jpg?v=1681304354",
+        "ingredient_1": "Artisanal tomato sauce",
+        "ingredient_2": "Mozzarella cheese",
+        "ingredient_3": "Pepperoni",
+        "ingredient_4": null,
+        "ingredient_5": null,
+        "price": 14
+    },
+    {
+        "id": 6,
+        "name": "Capore",
+        "description": "Capore pizza is a fresh and vibrant option with artisanal tomato sauce, mozzarella cheese, cherry tomatoes, and basil. The burst of flavors from cherry tomatoes and the aromatic basil make this pizza a delightful choice. Capore is perfect for those who appreciate the brightness of fresh ingredients.",
+        "pizza_img": "https://www.popolopizzeria.com/cdn/shop/products/cpe_13c9ded8-303e-4756-b606-09e4c873cc39_394x.jpg?v=1671468837",
+        "ingredient_1": "Artisanal tomato sauce",
+        "ingredient_2": "Mozzarella cheese",
+        "ingredient_3": "Cherry tomatoes",
+        "ingredient_4": "Basil",
+        "ingredient_5": null,
+        "price": 22
+    },
+    {
+        "id": 7,
+        "name": "Calabresa",
+        "description": "Calabresa pizza is a gourmet experience with artisanal tomato sauce, mozzarella cheese, gourmet chorizo, onion, and olives. The savory chorizo and the combination of onion and olives create a rich and flavorful pizza. Calabresa is a top pick for those seeking a premium taste.",
+        "pizza_img": "https://www.popolopizzeria.com/cdn/shop/products/clb_d1b89705-3f88-446d-892e-274d4980bd0d_394x.jpg?v=1671468847",
+        "ingredient_1": "Artisanal tomato sauce",
+        "ingredient_2": "Mozzarella cheese",
+        "ingredient_3": "Gourmet Chorizo",
+        "ingredient_4": "Onion",
+        "ingredient_5": "Olives",
+        "price": 34
+    },
+    {
+        "id": 8,
+        "name": "Zucchini",
+        "description": "Zucchini pizza is a veggie lover's dream with artisanal tomato sauce, mozzarella cheese, feta cheese, zucchini, and lemon. The combination of feta cheese and the freshness of zucchini and lemon create a light and tangy pizza. Zucchini pizza is an excellent choice for those who enjoy a veggie-centric and zesty flavor profile.",
+        "pizza_img": "https://www.popolopizzeria.com/cdn/shop/products/zuc_e2a2c1de-89ba-4a7b-8ba3-d2a46cae4376_394x.jpg?v=1671468839",
+        "ingredient_1": "Artisanal tomato sauce",
+        "ingredient_2": "Mozzarella cheese",
+        "ingredient_3": "Feta cheese",
+        "ingredient_4": "Zucchini",
+        "ingredient_5": "Lemon",
+        "price": 19
+    }
+  ]

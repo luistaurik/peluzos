@@ -1,0 +1,58 @@
+.menu-section {
+    margin: 0;
+    padding: 0.5% 6%;
+    background-image: url('../assets/fondo-main.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.card {
+    border-color: #FF7D3D;
+}
+
+.text-title {
+    text-align: left;
+}
+
+.text-description {
+    text-align: left;
+    font-size: 12px;
+}
+
+.ingredients {
+    text-decoration: none;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.price {
+    font-size: 26px;
+    font-weight: 800;
+}
+
+.card-footer {
+    background-color: white;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-information {
+    color: #a8775f;
+    background-color: #ffffff; 
+    border-color: #a8775f;
+}
+
+.btn-information:hover{
+    color: white;
+    background-color: #a8775f; 
+    border-color: #a8775f;
+}
+
+.btn-buy {
+    color: white;
+    background-color: #de8c63;  
+}

@@ -1,0 +1,85 @@
+body {
+    background-color: antiquewhite;
+    background-image: url('../assets/fondo-main.png');
+}
+
+
+.details {
+    height: 95vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.details-box {
+    height: 70%;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    width: 70vw;
+    border: solid 1px;
+    border-color: rgb(176,174,158);
+    border-radius: 50px;
+    box-shadow: 13px 11px 9px -10px rgba(176,174,158,0.75);
+    -webkit-box-shadow: 13px 11px 9px -10px rgba(176,174,158,0.75);
+    -moz-box-shadow: 13px 11px 9px -10px rgba(176,174,158,0.75);
+}
+
+.details-image {
+    height:100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(232, 216, 197);
+    border-radius: 50px 0 0 50px;
+}
+
+.pizza-image {
+    border-radius: 250px;
+    box-shadow: 18px 13px 16px 2px rgba(176,174,158,1);
+    -webkit-box-shadow: 18px 13px 16px 2px rgba(176,174,158,1);
+    -moz-box-shadow: 18px 13px 16px 2px rgba(176,174,158,1);
+}
+
+.details-text {
+    height: 100%;
+    text-align: left;
+    background-color: white;
+    padding: 2%;
+    border-radius: 0 50px 50px 0;
+    border-left: solid 1px;
+    border-color: rgb(176,174,158);
+}
+
+.ingredients-list {
+    text-decoration: none;
+    list-style: none;
+}
+
+.details-footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 2%;
+}
+
+.footer-item {
+    margin: 0 20px;
+}
+
+.price {
+    font-size: 28px;
+    font-weight: 700;
+}
+
+.btn-buy {
+    background-color: rgb(159, 142, 120);
+    border: 0px;
+}
+
+.title {
+    border-bottom: solid 1px;
+    border-color: rgb(176,174,158);
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+}

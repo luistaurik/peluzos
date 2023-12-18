@@ -1,0 +1,29 @@
+body {
+    background-color: antiquewhite;
+}
+
+.thanks{
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+.thanks-details {
+    height: 40vh;
+    border-radius: 30px;
+    margin: 10%;
+    margin-bottom: 5%;
+    border: solid 1px rgb(222, 221, 211);
+    box-shadow: 13px 11px 9px -10px rgba(176,174,158,0.75);
+    -webkit-box-shadow: 13px 11px 9px -10px rgba(176,174,158,0.75);
+    -moz-box-shadow: 13px 11px 9px -10px rgba(176,174,158,0.75);
+}
+
+.title {
+    border-bottom: solid 1px;
+    border-color: rgb(176,174,158);
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+}
